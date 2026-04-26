@@ -11,6 +11,7 @@ Router 1 – Cisco 2811 Router
 
 <img width="620" height="127" alt="image" src="https://github.com/user-attachments/assets/a66e8ef3-b344-404a-87fd-037c85f1d731" />
 
+
 Switches:
 
 Switch 1 – 2960-24TT Cisco Switch
