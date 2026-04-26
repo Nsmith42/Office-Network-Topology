@@ -2,10 +2,12 @@ Office Network Topology Documentation
 Nicholas Smith
 
 Router:
+
 Router 1 – Cisco 2811 Router
 -	4 Fast Ethernet interfaces
 -	NM-2FE2W Module installed, giving extra 2 Fast Ethernet ports
 -	Hostname R1
+
 
 <img width="620" height="127" alt="image" src="https://github.com/user-attachments/assets/a66e8ef3-b344-404a-87fd-037c85f1d731" />
 
@@ -28,6 +30,7 @@ Switch 4 – 2960-24TT Cisco Switch
   -	Network IP – 192.168.4.1
 
 Server:
+
 File Server – 
  -	Connected to Switch 1
  -	Static IP – 192.168.1.100
@@ -35,6 +38,7 @@ File Server –
  -	Default Gateway – 192.168.1.1
 
 User Devices:
+
 PC 1 -
   -	Connected to Switch 1
   -	Static IP – 192.168.2.2
