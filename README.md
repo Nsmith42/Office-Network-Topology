@@ -6,7 +6,7 @@ Router 1 – Cisco 2811 Router
 -	4 Fast Ethernet interfaces
 -	NM-2FE2W Module installed, giving extra 2 Fast Ethernet ports
 -	Hostname R1
--	<img width="620" height="127" alt="image" src="https://github.com/user-attachments/assets/a66e8ef3-b344-404a-87fd-037c85f1d731" />
+<img width="620" height="127" alt="image" src="https://github.com/user-attachments/assets/a66e8ef3-b344-404a-87fd-037c85f1d731" />
 
 Switches:
 Switch 1 – 2960-24TT Cisco Switch
@@ -32,9 +32,9 @@ File Server –
 User Devices:
 PC 1 -
   -	Connected to Switch 1
-	Static IP – 192.168.2.2
-	Subnet Mask - 255.255.255.0
-	Default Gateway – 192.168.2.1 (Router interface IP)
+  -	Static IP – 192.168.2.2
+  -	Subnet Mask - 255.255.255.0
+  -	Default Gateway – 192.168.2.1 (Router interface IP)
 
 PC 2 -
  -	Connected to Switch 1 
